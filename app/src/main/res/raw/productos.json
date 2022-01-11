@@ -1,0 +1,12 @@
+[
+  {
+    "nombreProducto": "Camiseta Barcelona",
+    "url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fhilbertpascualdionicio%2Fcamisetas-deportivas%2F&psig=AOvVaw2SMcYQs87qcxqhaZeNX-hz&ust=1641946481499000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKjfibm1qPUCFQAAAAAdAAAAABAD",
+    "marcaProducto": "Nike"
+  },
+  {
+    "nombreProducto": "Camiseta Real Madrid",
+    "url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.adidas.pe%2Fcamisetas-futbol-hombre&psig=AOvVaw1RK2tH5XiWfgwCURYM57JH&ust=1641946578837000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOCkwee1qPUCFQAAAAAdAAAAABAE",
+    "marcaProducto": "Adidas"
+  }
+]

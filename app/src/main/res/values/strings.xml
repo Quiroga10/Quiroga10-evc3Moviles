@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Sports Shop</string>
+    <string name="login_username">Username</string>
+    <string name="contraseña">Password</string>
+    <string name="login">Login</string>
+    <string name="cancel_button">Cancel</string>
+    <string name="login_error_message">password must have 7 characters</string>
+    <string name="color_mode_title">Search</string>
+    <string name="filter_title">Title</string>
+    <string name="nombre_producto">Nombre</string>
+    <string name="marca">Marca.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
